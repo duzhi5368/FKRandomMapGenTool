@@ -1,13 +1,13 @@
-# FKRandomMapGenTool / ×ÔÓÉÆïÊ¿Ëæ»úµØĞÎÉú³ÉÆ÷
+# FKRandomMapGenTool / è‡ªç”±éª‘å£«éšæœºåœ°å½¢ç”Ÿæˆå™¨
 
 A simple world map generator. Generates island maps.
-Ò»¸ö·Ç³£¼òµ¥µÄµØĞÎÉú³ÉÆ÷£¬¿ÉÒÔÉú³ÉÒ»Ğ©º£µºµØÍ¼¡£
+ä¸€ä¸ªéå¸¸ç®€å•çš„åœ°å½¢ç”Ÿæˆå™¨ï¼Œå¯ä»¥ç”Ÿæˆä¸€äº›æµ·å²›åœ°å›¾ã€‚
 
-## Screenshots / Èí¼ş½ØÍ¼
+## Screenshots / è½¯ä»¶æˆªå›¾
 
-<img src="https://github.com/duzhi5368/FKRandomMapGenTool/master/Screenshot.png"/>
+<img src="https://github.com/duzhi5368/FKRandomMapGenTool/blob/master/ScreenShot.png"/>
 
-## License / °æÈ¨
+## License / ç‰ˆæƒ
 
 <img align="right" src="http://opensource.org/trademarks/opensource/OSI-Approved-License-100x137.png">
 
@@ -15,5 +15,5 @@ The class is licensed under the [MIT License](http://opensource.org/licenses/MIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.¡¢
-Ã»°æÈ¨£¬Ëæ±ãÓÃ¡£
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.ã€
+æ²¡ç‰ˆæƒï¼Œéšä¾¿ç”¨ã€‚
