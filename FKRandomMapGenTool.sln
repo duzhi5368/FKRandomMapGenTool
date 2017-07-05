@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKRandomMapGenTool", "FKRandomMapGenTool\FKRandomMapGenTool.csproj", "{1C7EA62F-230D-4ADF-BBED-5856F47A64C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FKRandomMapGenLib", "FKRandomMapGenLib\FKRandomMapGenLib.csproj", "{99DAE691-4B9F-4A63-BB41-2F603E04E174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7EA62F-230D-4ADF-BBED-5856F47A64C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7EA62F-230D-4ADF-BBED-5856F47A64C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7EA62F-230D-4ADF-BBED-5856F47A64C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7EA62F-230D-4ADF-BBED-5856F47A64C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DAE691-4B9F-4A63-BB41-2F603E04E174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DAE691-4B9F-4A63-BB41-2F603E04E174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DAE691-4B9F-4A63-BB41-2F603E04E174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DAE691-4B9F-4A63-BB41-2F603E04E174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
